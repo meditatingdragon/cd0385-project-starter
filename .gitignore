@@ -1,0 +1,4 @@
+bike-sharing-demand/*
+project/submission*.csv
+project/AutogluonModels/*
+bike-sharing-demand.zip

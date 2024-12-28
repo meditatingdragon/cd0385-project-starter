@@ -60,4 +60,4 @@ If I had more time, I would spend more time in EDA phase and feature engineering
 
 ## Summary
 
-The baseline results were not very good at making predictions. By exploring the data and cleaning the dataset to for better analysis, the model improved. By allowing more time to be spent on specific models during the training phase using Autogluon and setting specific hyperparameters for models that could be tuned, the trained model improved further.
+The baseline results were not very good at making predictions. By exploring the data to understand how the data may be correlated and removing data that would not be very useful for training, the model improved. By allowing more time to be spent on specific models during the training phase using Autogluon and setting specific hyperparameters for models that could be tuned, the hyperparameter tuning resulted in an even better model that provided more accurate results. Tuning the models enabled the 3 models more training rounds in the specified time, allowing the model to predict results better.
